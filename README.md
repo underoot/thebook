@@ -1,6 +1,6 @@
 # Susmissions for tasks from The Book
 
-[x] The Guessing Game
-[x] Temperature converter
-[x] Fibonacci
-[x] The Christmas Song
+* The Guessing Game
+* Temperature converter
+* Fibonacci
+* The Christmas Song
